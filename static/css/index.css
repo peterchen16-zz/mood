@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+}
+
+#main_page_div {
+    height:100vh;
+}
+
+#logo_div {
+	margin: auto;
+  	position: absolute;
+  	top: 0; left: 0; bottom: 0; right: 0;
+  	height: 300px;
+  	width: 300px;
+}
+
+#login_button, #invite_button{
+	width: 180px;
+}
+
